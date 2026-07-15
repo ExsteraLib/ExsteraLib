@@ -1,5 +1,5 @@
 {
   "version": "1",
-  "url": "https://raw.githubusercontent.com/Slitlers/ExsteraLib/main/ExsteraLib.plugin",
+  "url": "https://github.com/ExsteraLib/ExsteraLib/blob/main/ExsteraLib.plugin",
   "changelog": "Исправлены баги, добавлен новый API для стикеров."
 }
