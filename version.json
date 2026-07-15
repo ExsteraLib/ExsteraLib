@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "url": "https://github.com/ExsteraLib/ExsteraLib/blob/main/ExsteraLib.plugin",
   "changelog": "Исправлены баги, добавлен новый API для стикеров."
 }
