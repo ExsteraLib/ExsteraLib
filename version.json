@@ -1,0 +1,5 @@
+{
+  "version": "1",
+  "url": "https://raw.githubusercontent.com/Slitlers/ExsteraLib/main/ExsteraLib.plugin",
+  "changelog": "Исправлены баги, добавлен новый API для стикеров."
+}
